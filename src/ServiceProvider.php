@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hrace009\ConfigWriter;
+namespace hrace009\ConfigWriter;
 
 use Hrace009\ConfigWriter\DataWriter\FileWriter;
 use Illuminate\Filesystem\Filesystem;

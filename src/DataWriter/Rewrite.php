@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hrace009\ConfigWriter\DataWriter;
+namespace hrace009\ConfigWriter\DataWriter;
 
 use Exception;
 
