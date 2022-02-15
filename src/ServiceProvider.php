@@ -3,7 +3,7 @@
 
 namespace hrace009\ConfigWriter;
 
-use Hrace009\ConfigWriter\DataWriter\FileWriter;
+use hrace009\ConfigWriter\DataWriter\FileWriter;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 

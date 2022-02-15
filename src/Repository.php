@@ -4,7 +4,7 @@
 namespace hrace009\ConfigWriter;
 
 use Exception;
-use Hrace009\ConfigWriter\DataWriter\FileWriter;
+use hrace009\ConfigWriter\DataWriter\FileWriter;
 use Illuminate\Config\Repository as RepositoryBase;
 
 class Repository extends RepositoryBase
