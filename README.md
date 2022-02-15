@@ -25,7 +25,7 @@ composer require "hrace009/config-writer"
 Add this to `app/config/app.php` under the 'providers' key:
 
 ```php
-Hrace009\ConfigWriter\ServiceProvider::class,
+hrace009\ConfigWriter\ServiceProvider::class,
 ```
 
 ## Usage
