@@ -12,7 +12,7 @@ The following value types are supported for writing: strings, integers, booleans
 
 ## Support
 
-This provider is designed to be used in Laravel from `5.4 - 9.0` version.
+This provider is designed to be used in Laravel from `5.4 - 11.0` version.
 
 ## Setup
 
